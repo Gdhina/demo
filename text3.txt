@@ -1,1 +1,3 @@
-i am dhina.
+
+I am dhina.
+python developer
